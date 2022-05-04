@@ -1,0 +1,58 @@
+[
+    {
+        "p_name": "Apple",
+        "p_image": "assets/images/apple.jfif",
+        "p_id": 1,
+        "p_cost": 30,
+        "p_availability": 1,
+        "p_details": "Imported from Swiss",
+        "p_category": "Premium"
+    },
+    {
+        "p_name": "Mango",
+        "p_image": "assets/images/mango.jpg",
+        "p_id": 2,
+        "p_cost": 50,
+        "p_availability": 1,
+        "p_details": "Farmed at Selam",
+        "p_category": "Tamilnadu"
+    },
+    
+    {
+        "p_name": "Orange",
+        "p_image": "assets/images/Orange.jpg",
+        "p_id": 4,
+        "p_cost": 25,
+        "p_availability": 1,
+        "p_details": "from Nagpur",
+        "p_category": "Premium"
+    },
+    {
+        "p_name": "Banana",
+        "p_image": "assets/images/banana.jpg",
+        "p_id": 1,
+        "p_cost": 5,
+        "p_availability": 1,
+        "p_details": "From Tamilnadu",
+        "p_category": "Tamilnadu"
+    },
+    {
+        "p_name": "Kiwi",
+        "p_image": "assets/images/kiwi.png",
+        "p_id": 1,
+        "p_cost": 80,
+        "p_availability": 1,
+        "p_details": "From Arunachal",
+        "p_category": "Premium"
+    },
+   
+    {
+        "p_name": "Pumpkin",
+        "p_image": "assets/images/pumpkin.jpg",
+        "p_id": 6,
+        "p_cost": 40,
+        "p_availability": 1,
+        "p_details": "from Patna",
+        "p_category": "Tamilnadu"
+    }
+]
