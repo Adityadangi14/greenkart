@@ -6,9 +6,15 @@ GreenKart is a assignment given by Yeblelo Technology.
  - Beauitiful zoom out animation of grid.
  - Filters
  - Add to cart
- - Item numbers on cart will in incerese in realtime.
+ - Item numbers on cart will in incerese in realhttps://pub.dev/packages/gettime.
  > ### Note 
  >  json values are not hardcoded . I am reading them from assets folder.
+
+## Packages used 
+
+- [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+-  [GetX](https://pub.dev/packages/get)
 
 
 ![WhatsApp Image 2022-05-04 at 11 29 17 AM](https://user-images.githubusercontent.com/31379541/166630882-4d343b71-eb56-4880-a3cd-c5ef384536ae.jpeg)
